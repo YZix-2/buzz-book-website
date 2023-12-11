@@ -1,0 +1,12 @@
+1, open Xampp
+
+2, Start the first two
+
+3, press admin on the first one
+
+4, chnage dashboard from the link to obs
+
+
+http://localhost/dashboard/ ----->
+
+http://localhost/obs/
